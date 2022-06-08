@@ -1,10 +1,12 @@
 # cron-node
 
-deploy on npm as **crontab-simple-parser**
+**github** code on https://github.com/thiago-braz/cron-node
+
+deployed on npm as **crontab-simple-parser**
 
 ```
 "dependencies": {
-   "crontab-simple-parser": "1.0.2",
+   "crontab-simple-parser": "1.0.3",
 }
 ```
 

@@ -1,6 +1,6 @@
 {
   "name": "crontab-simple-parser",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
   "scripts": {
     "test": "node test/test.js"
