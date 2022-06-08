@@ -1,4 +1,4 @@
-const crontab = require("../crontab/contrab");
+const crontab = require("..");
 const assert = require("assert");
 
 function getCron(now, cronExpression) {
