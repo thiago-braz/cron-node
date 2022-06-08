@@ -1,5 +1,5 @@
 {
-  "name": "crontab-parser",
+  "name": "crontab-simple-parser",
   "version": "1.0.0",
   "private": false,
   "scripts": {
