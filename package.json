@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "test": "mocha test/test.js --exit"
+    "test": "node test/test.js"
   },
   "config": {
     "commitizen": {
